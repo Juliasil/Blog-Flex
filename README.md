@@ -7,3 +7,11 @@
 </div>
 <br>
 <p>It's a project on how to introduce the Flexbox property in CSS, and a layout creation with Flexbox.</p>
+<p>It's a responsive page. with Flexbox.</p>
+<br>
+<br>
+<h3>Technology used</h3>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+</ul>
